@@ -1,0 +1,1194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="IT Human Resource Management System">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3303792733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Developer Cue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 991398417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time This Week</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field Time This Week - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 2817024831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Yesterday</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field Time Yesterday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 1844374654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Today</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field Time Today - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 3319760346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requests to Approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field Requests to Approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 143592048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field User ID Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 6488023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Sheet No. Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field Time Sheet No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 3979362258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This Week Date Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field This Week Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 728443488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yesterday Date Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field Yesterday Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3303792733 - Field 2378997789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Today Date Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAR Developer Cue - Field Today Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2722287964 - Method 2040964174 - NamedType 1116692744" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID field value should not be empty. Do you want to continue without filling in this field?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MAR Human Resource Management - Method CheckUserIDOnQueryCloseEmployeeCardPage - NamedType ContinueWithEmptyUserIDQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2722287964 - Method 4171522854 - NamedType 1116692744" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID field value should not be empty. Do you want to continue without filling in this field?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MAR Human Resource Management - Method CheckUserIDOnQueryCloseResourceCardPage - NamedType ContinueWithEmptyUserIDQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2722287964 - Method 2553375520 - NamedType 1959601945" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date can not be earlier that To Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MAR Human Resource Management - Method CheckFromAndToDate - NamedType ToDateEarlierThanFromDateErr</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Self-Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 1861040219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Sheets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Time Sheets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 991398417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time This Week</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Time This Week - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 991398417 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of hours worked this week</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Time This Week - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 2817024831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Yesterday</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Time Yesterday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 2817024831 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of hours worked Yesterday</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Time Yesterday - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 1844374654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Today</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Time Today - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 1844374654 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of hours worked Today</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Time Today - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Action 1800671644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This Week Time Sheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Action This Week Time Sheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Action 1800671644 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view this week time sheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Action This Week Time Sheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 3860314472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approvals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Approvals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 3319760346 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies requests for certain documents, cards, or journal lines that you must approve for other users before they can proceed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Requests to Approve - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 1378455990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Tasks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control My Tasks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 405675051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Tasks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Pending Tasks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4222730053 - Control 405675051 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of pending tasks that are assigned to you or to a group that you are a member of.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer Activities - Control Pending Tasks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1636617947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Developer Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1636617947 - Action 1391257448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Absence Registration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC - Action Absence Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1636617947 - Action 1391257448 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to register an absence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC - Action Absence Registration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1636617947 - Action 539774544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Registration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC - Action Time Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1636617947 - Action 539774544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to register work time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC - Action Time Registration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1636617947 - Action 2224574891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Team</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC - Action My Team - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1636617947 - Action 2224574891 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view My Team</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC - Action My Team - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1636617947 - Action 1855655228 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC - Action My Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1636617947 - Action 1855655228 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view My Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC - Action My Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1145245745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Headline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC Headline - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1145245745 - Control 2960881309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Headline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC Headline - Control HeadlineText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1145245745 - Control 2960881309 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This field contains the Headline Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC Headline - Control HeadlineText - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1145245745 - Control 2928256139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Headline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC Headline - Control HeadlineText2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1145245745 - Control 2928256139 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This field contains the Headline Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC Headline - Control HeadlineText2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1145245745 - NamedType 3899500243" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;qualifier&gt;&lt;/qualifier&gt;&lt;payload&gt;Welcome &lt;emphasize&gt;%1&lt;/emphasize&gt; to the &lt;emphasize&gt;HRM&lt;/emphasize&gt; implementation for D365BC&lt;/payload&gt;</source>
+          <note from="Developer" annotates="general" priority="2">%1 is used for Employee Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Developer RC Headline - NamedType GreetingTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Human Resource Manager Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 3689144140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action CreationAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 3689144140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action CreationAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 171450490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Embedding</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action EmbeddingAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 171450490 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action EmbeddingAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 3908848014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action ProcessingAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 3908848014 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action ProcessingAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 1413548769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reporting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action ReportingAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 1413548769 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action ReportingAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 347328507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action Employees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120407627 - Action 347328507 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Human Resource Manager RC - Action Employees - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Manager Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 3689144140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action CreationAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 3689144140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action CreationAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 171450490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Embedding</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action EmbeddingAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 171450490 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action EmbeddingAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 3908848014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action ProcessingAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 3908848014 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action ProcessingAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 1413548769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reporting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action ReportingAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 1413548769 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action ReportingAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 347328507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action Employees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1317656955 - Action 347328507 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Project Manager RC - Action Employees - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3333318460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Sheets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Simple Time Sheet List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3333318460 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the involved entry or record, according to the specified number series.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Simple Time Sheet List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3333318460 - Control 460889064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the starting date for a time sheet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Simple Time Sheet List - Control Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3333318460 - Control 458406397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ending date for a time sheet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Simple Time Sheet List - Control Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3333318460 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that a comment about this document has been entered.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Simple Time Sheet List - Control Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3333318460 - Action 169836898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Edit Time Sheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Simple Time Sheet List - Action EditTimeSheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3333318460 - Action 169836898 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the time sheet in edit mode.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Simple Time Sheet List - Action EditTimeSheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3333318460 - Action 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Simple Time Sheet List - Action Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3333318460 - Action 503024588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add comments for the record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Simple Time Sheet List - Action Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Absences</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 1964419135 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a number for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control Employee No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 2110632758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the first day of the employee's absence registered on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control From Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 2565971985 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the last day of the employee's absence registered on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control To Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 1504045620 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a cause of absence code to define the type of absence.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control Cause of Absence Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the absence.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity associated with absences, in hours or days.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 2385270358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how each unit of the item or resource is measured, such as in pieces or hours. By default, the value in the Base Unit of Measure field on the item or resource card is inserted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control Unit of Measure Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 3179217921 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity associated with absences, in hours or days.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control Quantity (Base) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 1746939790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This field contains absence status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control MAR Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if a comment is associated with this entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Control Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Action 3337744748 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Submit for approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Action Submit for approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Action 3337744748 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Submit selected line for approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Action Submit for approval - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1708570878 - Action 3000180178 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add comments for the record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Absences - Action Co&amp;mments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Employee,Navigate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the involved entry or record, according to the specified number series.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3444679095 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's first name.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control First Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1064199390 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's middle name.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Middle Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 4068742839 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's last name.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Last Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 602795601 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's job title.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Job Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2282272855 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's initials.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Initials - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 411528779 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies an alternate name that you can use to search for the record in question when you cannot remember the value in the Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Search Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2303302321 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's gender.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Gender - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 281249067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Phone No.2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 281249067 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's telephone number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Phone No.2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3908535498 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's email address at the company.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Company E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2393253273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when this record was last modified.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Last Date Modified - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 880902346 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to limit access to data for the data subject during daily operations. This is useful, for example, when protecting data from changes while it is under privacy review.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Privacy Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2731911828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address &amp; Contact</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Address &amp; Contact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2306852000 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies additional address information.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Address 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the city of the address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 499448942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the county of the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control County - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3660300303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the postal code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 284764054 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the country/region of the address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Country/Region Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 184792793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show on Map</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control ShowMap - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 184792793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's address on your preferred online map.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control ShowMap - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 352546477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Private Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Mobile Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 352546477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's private telephone number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Mobile Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2428847315 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's pager number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Pager - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3979136067 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's telephone extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Extension - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's telephone number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Private Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's private email address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3969695312 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a code for an alternate address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Alt. Address Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2726606855 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the starting date when the alternate address is valid.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Alt. Address Start Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 418279750 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the last day when the alternate address is valid.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Alt. Address End Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1569466922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Administration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Administration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1722922112 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date when the employee began to work for the company.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Employment Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employment status of the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 724087041 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date when the employee became inactive, due to disability or maternity leave, for example.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Inactive Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1667569833 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a code for the cause of inactivity by the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Cause of Inactivity Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2535411820 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date when the employee was terminated, due to retirement or dismissal, for example.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Termination Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2783216052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a termination code for the employee who has been terminated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Grounds for Term. Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 619291327 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employment contract code for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Emplymt. Contract Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 68521825 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a statistics group code to assign to the employee for statistical purposes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Statistics Group Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3961767479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a resource number for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Resource No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3883264070 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a salesperson or purchaser code for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Salespers./Purch. Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2758253868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Personal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Personal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1576740555 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's date of birth.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Birth Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 4159879974 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the social security number of the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Social Security No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3213961858 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's labor union membership code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Union Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3044173818 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's labor union membership number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Union Membership No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1004196339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Payments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2743298303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee's type to link business transactions made for the employee with the appropriate account in the general ledger.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Employee Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 2039693239 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how to apply payments to entries for this employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Application Method - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 3089817519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a number of the bank branch.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Bank Branch No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 4248640148 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number used by the bank for the bank account.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Bank Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1176583840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank account's international bank account number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control IBAN - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 428874574 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the SWIFT code (international bank identifier code) of the bank where the employee has the account.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control SWIFT Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Control 1658766258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Control Attached Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 3254300328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E&amp;mployee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action E&amp;mployee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 3000180178 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add comments for the record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Co&amp;mments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 2173385693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit dimensions, such as area, project, or department, that you can assign to sales and purchase documents to distribute costs and analyze transaction history.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Dimensions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 1235454278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action &amp;Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 1235454278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add a picture of the employee or, for example, the company's logo.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action &amp;Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 3915550385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Alternate Addresses</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action AlternativeAddresses - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 3915550385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of addresses that are registered for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action AlternativeAddresses - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 591007867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Relatives</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action &amp;Relatives - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 591007867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of relatives that are registered for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action &amp;Relatives - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 2649481008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mi&amp;sc. Article Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Mi&amp;sc. Article Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 2649481008 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of miscellaneous articles that are registered for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Mi&amp;sc. Article Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 3559850348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Confidential Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action &amp;Confidential Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 3559850348 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of any confidential information that is registered for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action &amp;Confidential Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 947957056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Q&amp;ualifications</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Q&amp;ualifications - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 947957056 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of qualifications that are registered for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Q&amp;ualifications - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 3812731140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A&amp;bsences</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action A&amp;bsences - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 3812731140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View absence information for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action A&amp;bsences - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 1536197423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Absences by Ca&amp;tegories</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Absences by Ca&amp;tegories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 1536197423 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View categorized absence information for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Absences by Ca&amp;tegories - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 106601596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Misc. Articles &amp;Overview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Misc. Articles &amp;Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 106601596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View miscellaneous articles that are registered for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Misc. Articles &amp;Overview - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 2376672585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;nfidential Info. Overview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Co&amp;nfidential Info. Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 2376672585 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View confidential information that is registered for the employee.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Co&amp;nfidential Info. Overview - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 1111476699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ledger E&amp;ntries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Ledger E&amp;ntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 1111476699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the history of transactions that have been posted for the selected record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Ledger E&amp;ntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 1225782422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Attachments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 1225782422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add a file as an attachment. You can attach images as well as documents.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action Attachments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 2179725014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay Employee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action PayEmployee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - Action 2179725014 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View employee ledger entries for the record with remaining amount that have not been paid yet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - Action PayEmployee - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1381489140 - NamedType 3704376103" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show on Map</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Specific Employee Card - NamedType ShowMapLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Team Lead Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 3689144140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action CreationAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 3689144140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action CreationAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 171450490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Embedding</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action EmbeddingAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 171450490 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action EmbeddingAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 3908848014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action ProcessingAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 3908848014 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action ProcessingAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 1413548769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reporting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action ReportingAreaAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 1413548769 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action allows to view Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action ReportingAreaAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 347328507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action Employees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3539603842 - Action 347328507 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR Team Lead RC - Action Employees - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Task List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the task.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 1873957287 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the task must be completed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Due DateTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 4130293374 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the priority of the task compared to other tasks. Enter any number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Priority - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 807418830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how much of the task has been completed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Percent Complete - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 2682352951 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies who performs the task.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Assigned To User Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 3572756595 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the task was created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Created DateTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 1076138764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Task Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control User Task Group Assigned To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 1076138764 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the group that the task belongs to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control User Task Group Assigned To - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 1886494496 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the task was completed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Completed DateTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 209647827 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the task was started.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Start DateTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 1157636239 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies who created the task.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Created By User Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Control 1187171156 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies who completed the task.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Control Completed By User Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Action 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Action Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Action 4259830144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the card for the selected record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Action Open - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Action 3653493472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark as Completed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Action Mark Complete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Action 3653493472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicate that the task is completed. The % Complete field is set to 100.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Action Mark Complete - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642445921 - Action 3653493472 - Method 1377591017 - NamedType 3010307828" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you really want to complete the selected tasks?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAR User Task List Part - Action Mark Complete - Method OnAction - NamedType DoYouWantToCompleteQst</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4146147015 - Control 1746939790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1467067424">
+          <source>This field contains absence status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MAR Employee Absences Ext. - Control MAR Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1852658977 - Control 1813135878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 866835530">
+          <source>This field contains the User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MAR Employee Card Ext. - Control MAR User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2612682259 - Control 1813135878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
+          <source>This field contains the User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MAR Employee List Ext. - Control MAR User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3525507501 - Control 3834077732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 520017643">
+          <source>Human Resource Units of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MAR Human Resource Setup Ext. - Control MAR HR Units of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3525507501 - Control 1706285627 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 520017643">
+          <source>This field specifies Human Resource Hour Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MAR Human Resource Setup Ext. - Control MAR Hour Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3525507501 - Control 1937895415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 520017643">
+          <source>This field specifies Human Resource Day Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MAR Human Resource Setup Ext. - Control MAR Day Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3525507501 - Field 1706285627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 520017643">
+          <source>Hour Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Human Resource Setup Ext. - Field MAR Hour Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3525507501 - Field 1706285627 - Method 2126772001 - NamedType 4009859004" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 520017643">
+          <source>You cannot change %1 because there are %2 that use this Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2">%1 - the Hour Unit of Measure field caption. %2 - the Employee Absence Table Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Human Resource Setup Ext. - Field MAR Hour Unit of Measure - Method OnValidate - NamedType EmployeeAbsenceUseThisUoMErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3525507501 - Field 1937895415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 520017643">
+          <source>Day Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Human Resource Setup Ext. - Field MAR Day Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3525507501 - Field 1937895415 - Method 2126772001 - NamedType 4009859004" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 520017643">
+          <source>You cannot change %1 because there are %2 that use this Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2">%1 - the Day Unit of Measure field caption. %2 - the Employee Absence Table Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Human Resource Setup Ext. - Field MAR Day Unit of Measure - Method OnValidate - NamedType EmployeeAbsenceUseThisUoMErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1612794249 - Control 1813135878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1580859378">
+          <source>This field contains the User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MAR Resource Card Ext. - Control MAR User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3816781787 - Control 1813135878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4265073908">
+          <source>This field contains the User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MAR Resource List Ext. - Control MAR User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1172871402 - Field 1746939790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3164093577">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Employee Absence Ext. - Field MAR Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1172871402 - Field 4134918940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3164093577">
+          <source>Team Lead Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Employee Absence Ext. - Field MAR Team Lead Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1172871402 - Field 113601669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3164093577">
+          <source>HR Manager Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Employee Absence Ext. - Field MAR HR Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4045110357 - Field 1813135878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Employee Ext. - Field MAR User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4045110357 - Field 1813135878 - Method 2126772001 - NamedType 752120355" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Employee with this User ID already exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Employee Ext. - Field MAR User ID - Method OnValidate - NamedType EmployeeWithUserIDExistsErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1159829981 - Field 1813135878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 348912950">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Resource Ext. - Field MAR User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1159829981 - Field 1813135878 - Method 2126772001 - NamedType 4264531547" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 348912950">
+          <source>Resource with this User ID already exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MAR Resource Ext. - Field MAR User ID - Method OnValidate - NamedType ResourceWithUserIDExistsErr</note>
+        </trans-unit>
+        <trans-unit id="Enum 1007322177 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MAR Absence Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1007322177 - EnumValue 72070539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Submitted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MAR Absence Status - EnumValue Submitted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1007322177 - EnumValue 496445946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rejected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MAR Absence Status - EnumValue Rejected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1007322177 - EnumValue 2913119229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MAR Absence Status - EnumValue Approved - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

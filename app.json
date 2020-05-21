@@ -1,0 +1,39 @@
+{
+  "id": "9e375a79-bf55-4e69-a46b-709b7b081950",
+  "name": "IT Human Resource Management System",
+  "publisher": "VGTU",
+  "version": "1.0.0.0",
+  "brief": "IT Human Resource Management",
+  "description": "Human Resource Management System for an IT Company",
+  "privacyStatement": "https://www.vgtu.lt/about-university/data-protection-policy/297352",
+  "EULA": "https://www.vgtu.lt/",
+  "help": "https://www.vgtu.lt/about-university/data-protection-policy/297352",
+  "url": "https://www.vgtu.lt/",
+  "logo": "logo.png",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 55000,
+      "to": 55100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://HRM.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0",
+  "features": ["TranslationFile"]
+}
